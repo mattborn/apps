@@ -1,1459 +1,2537 @@
 [
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "1Password",
+    "offloaded": false,
+    "recurring": 102.83,
     "seller": "AgileBits Inc.",
-    "version": "8.10.23",
-    "updated": "2023-12-30"
+    "updated": "2023-12-30",
+    "version": "8.10.23"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "1Password 7",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "AgileBits Inc.",
     "version": "7.10.2"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "3 Cups Coffee",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Legacy Coffee Llc",
     "version": "1.50.937"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Acorns",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Acorns Grow Incorporated",
     "version": "4.75.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "AllTrails",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "AllTrails, Inc.",
     "version": "18.8.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Altruist",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Altruist",
     "version": "2.8.1"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Amazon",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "AMZN Mobile LLC",
     "version": "21.23.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Amazon Alexa",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "AMZN Mobile LLC",
     "version": "2.2.580942"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "American",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "American Airlines",
     "version": "2023.21"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Analytics",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Google LLC",
     "version": "4.9.5560"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Angel Studios",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Angel Studios, Inc.",
     "version": "23.10.24"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Angi",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Angi Inc.",
     "version": "23.47"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "monthly",
     "name": "Apple Store",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Apple",
     "version": "521000"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Atom",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Atom Tickets, LLC",
     "version": "3.29.1"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Audible",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Audible, Inc.",
     "version": "4.11.1"
   },
   {
     "added": "2023-12-29",
+    "essential": true,
+    "frequency": "weekly",
     "name": "August",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "August Home, Inc.",
     "version": "23.23.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Authenticator",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Google LLC",
     "version": "4.0.2"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Basecamp",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Basecamp, LLC",
     "version": "4.10.4"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Beli",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Beli Technologies, Inc.",
     "version": "5.4.10"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "BetterUp",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "BetterUp",
     "version": "4.155.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Bible",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Life.Church",
     "version": "9.33.3"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Binance",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Binance LTD",
     "version": "2.75.1"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Bird",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Bird Rides, Inc.",
     "version": "4.271.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Brivo Pass",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Brivo Inc.",
     "version": "4.14.0"
   },
   {
+    "added": "2023-12-30",
+    "essential": true,
+    "frequency": "weekly",
+    "name": "Calculator",
+    "offloaded": false,
+    "recurring": 0,
+    "seller": "Apple",
+    "version": "17.2.1"
+  },
+  {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Calm",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Calm.com",
     "version": "6.37"
   },
   {
+    "added": "2023-12-30",
+    "essential": true,
+    "frequency": "daily",
+    "name": "Camera",
+    "offloaded": false,
+    "recurring": 0,
+    "seller": "Apple",
+    "version": "17.2.1"
+  },
+  {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Campspot",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Campspot",
     "version": "1.26.0"
   },
   {
     "added": "2023-12-29",
+    "essential": true,
+    "frequency": "daily",
     "name": "CARROT",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Grailr LLC",
     "version": "5.12.9"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Carvana",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Carvana",
     "version": "5.17"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Cash App",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Block, Inc.",
     "version": "4.26"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Chase",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "JPMorgan Chase & Co.",
     "version": "4.484"
   },
   {
     "added": "2023-12-29",
+    "essential": true,
+    "frequency": "daily",
     "name": "ChatGPT",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "OpenAI",
     "version": "1.2023.347"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Church Center",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Ministry Centered Technologies",
     "version": "2023.12.18"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Citi Mobile",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Citibank",
     "version": "9.68.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Clarity Money",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Clarity Money",
     "version": "1.73.13"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "ClickUp",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Mango Technologies, Inc.",
     "version": "5.0.7"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "never",
     "name": "Clips",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Apple",
     "version": "3.1.6"
   },
   {
+    "added": "2023-12-30",
+    "essential": true,
+    "frequency": "daily",
+    "name": "Clock",
+    "offloaded": false,
+    "recurring": 0,
+    "seller": "Apple",
+    "version": "17.2.1"
+  },
+  {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Clubhouse",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Alpha Exploration Co.",
     "version": "23.12.19"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Coffee Golf",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Shallot Games, LLC.",
     "version": "2.1.1"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Coinbase",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Coinbase, Inc.",
     "version": "11.49.8"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Coinbase Pro",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Coinbase, Inc.",
     "version": "1.0.104"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "CoinMarketCap",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "CoinMarketCap",
     "version": "4.34.1"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "CoinTracker",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Nino Finance, Inc.",
     "version": "1.34.3"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Compass Deluxe",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Camera LLC(TX)",
     "version": "3.4"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Cone",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Mystical Bits, LLC",
     "version": "2.7.30"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Connect",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Garmin",
-    "version": "1.12.3",
-    "updated": "2023-12-30"
+    "updated": "2023-12-30",
+    "version": "1.12.3"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Connect Care",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Intermountain Healthcare, Inc",
     "version": "12.20.006"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Copilot",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Copilot Money, Inc.",
     "version": "3.5.18"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Crazy 8s Timer",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Design Sprint X",
     "version": "1.064"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Credit Karma",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Credit Karma, Inc.",
     "version": "23.50.1"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Crumbl",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Crumbl, LLC",
     "version": "6.4.1"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "CryptoAlerting",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Cryptocurrency Alerting, LLC",
     "version": "1.5.5"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Cryptowatch",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Kraken",
     "version": "2.7.3"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Delta",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Opus Labs CVBA",
     "version": "2023.9.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Discord",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Discord, Inc.",
     "version": "209.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Disney+",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Disney",
     "version": "2.26.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Disneyland",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Disney",
     "version": "7.32"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "DLR Lines",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "TouringPlans.com",
     "version": "1.9.10"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "DoorDash",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "DoorDash, Inc.",
     "version": "5.49.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "DraftKings",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "DraftKings",
     "version": "5.27.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Dropbox",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Dropbox, Inc.",
     "version": "358.2"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "monthly",
     "name": "Dwell",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Dwell App, LLC",
     "version": "2023.12.1"
   },
   {
     "added": "2023-12-29",
+    "essential": true,
+    "frequency": "weekly",
     "name": "Edison House",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Edison House LLC",
     "version": "23.07.5"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "ESPN",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Disney",
     "version": "6.95.1"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Eventbrite",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Eventbrite",
     "version": "9.54.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "FaceApp",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "FaceApp Technology Limited",
     "version": "11.11.4"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "fair",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Fair Financial Corp",
     "version": "2.22.2"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Family Link",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Google LLC",
     "version": "2.18.26234"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "FanDuel",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "FanDuel, Inc.",
     "version": "3.88"
   },
   {
     "added": "2023-12-29",
+    "essential": true,
+    "frequency": "weekly",
     "name": "Fantasy",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Yahoo",
     "version": "10.53.4"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Feit Electric",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Feit Electric",
     "version": "4.1.1"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Fender Tune",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Fender Digital",
     "version": "4.14.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Figma",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Figma Inc.",
     "version": "23.17.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Filmm",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Filmm, LLC",
     "version": "3.12.1"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Fire TV",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "AMZN Mobile LLC",
     "version": "2.9.1"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Fitbod",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Fitbod Inc.",
     "version": "6.23.1"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Fly Delta",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Delta Air Lines, Inc.",
     "version": "5.40.1"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "FTX",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Blockfolio, LLC",
     "version": "4.12.6"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Funveo",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Funny Media Labs, S.L.",
     "version": "5.1.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Future",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Future Research, Inc",
     "version": "3.32.2"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Gemini",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Gemini Trust Company, LLC",
     "version": "23.1219.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Genius Scan",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "The Grizzly Labs",
     "version": "7.13.2"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Geocaching",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Groundspeak Inc.",
     "version": "9.42.0"
   },
   {
     "added": "2023-12-29",
+    "essential": true,
+    "frequency": "weekly",
     "name": "Gmail",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Google LLC",
     "version": "6.0.231127"
   },
   {
     "added": "2023-12-29",
+    "essential": true,
+    "frequency": "daily",
     "name": "Google Calendar",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Google LLC",
     "version": "23.47.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Google Home",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Google LLC",
     "version": "3.10"
   },
   {
     "added": "2023-12-29",
+    "essential": true,
+    "frequency": "weekly",
     "name": "Google Maps",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Google LLC",
     "version": "6.96.1"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Google Translate",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Google LLC",
     "version": "7.20.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Govee Home",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Shenzhen Intellirocks Tech Co. Ltd.",
     "version": "5.9.20"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "GroupMe",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Skype Communications S.a.r.l",
     "version": "6.102.4"
   },
   {
     "added": "2023-12-29",
+    "essential": true,
+    "frequency": "rarely",
     "name": "Gusto Wallet",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Gusto, inc.",
     "version": "2.33.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "HeReadsTruth",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "She Reads Truth",
     "version": "3.39"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Hey Loop",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Curious Labs, Inc.",
     "version": "1.0.3"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Hipcamp",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Hipcamp, Inc",
     "version": "2.44.2"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "HODL",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "HODL Media Inc.",
     "version": "9.11"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Homepoint",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Home Point Financial",
     "version": "1.17"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Hotel Tonight",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Hotel Tonight Inc",
     "version": "23.12.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Houseparty",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Life On Air, Inc",
     "version": "1.65.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "iHealth Test",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "iHealth Labs Inc.",
     "version": "1.4.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "iMovie",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Apple",
     "version": "3002"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "InShot",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "SHANTANU PTE. LTD.",
     "version": "1.74.1"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Instagram",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Instagram, Inc.",
     "version": "312.0.1"
   },
   {
     "added": "2023-12-29",
+    "essential": true,
+    "frequency": "daily",
     "name": "Interval Timer",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Float Tech, LLC",
     "version": "3.7.4"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Jimmy John’s",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Jimmy John's Sandwiches",
     "version": "6.9.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Jira",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Atlassian",
     "version": "195.1.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "JustWatch",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "JustWatch GmbH",
     "version": "23.51.3"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Kasa",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "TP-LINK GLOBAL INC.",
     "version": "3.3.552"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Keynote",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Apple",
     "version": "13.2"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Kia Access",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Kia America, Inc.",
     "version": "6.13.1"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Kids",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Spotify",
     "version": "1.36.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "KuCoin",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Kucoin Technology Co.,Ltd.",
     "version": "3.98.1"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "La Crosse View",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "La Crosse Technology",
     "version": "1.83.75"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "LandGlide",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Real Estate Portal USA, LLC",
     "version": "4.7.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Lapse",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Lapse",
     "version": "2.117.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Lensa",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Prisma labs, inc.",
     "version": "5.7.2"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Letterboxd",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Letterboxd",
     "version": "4.1.2"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Likewise",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Likewise, Inc.",
     "version": "30.7"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Lime",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Neutron Holdings. Inc.",
     "version": "3.139.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "LinkedIn",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "LinkedIn Corporation",
     "version": "2023.1207.0928"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Little Caesars",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Little Caesar Enterprises, Inc.",
     "version": "11.2.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Loog Guitar",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Loog Guitars, LLC",
     "version": "3.7.2"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Lyft",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Lyft, Inc.",
     "version": "15.38.3"
   },
   {
     "added": "2023-12-29",
+    "essential": true,
+    "frequency": "monthly",
     "name": "Magic Home",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "zhibiao Lin",
     "version": "1.9.3"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Marriott",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Marriott International",
     "version": "10.58.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Meetup",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Meetup LLC",
     "version": "2023.12.17"
   },
   {
+    "added": "2023-12-30",
+    "essential": true,
+    "frequency": "daily",
+    "name": "Messages",
+    "offloaded": false,
+    "recurring": 0,
+    "seller": "Apple",
+    "version": "17.2.1"
+  },
+  {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Messenger",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Meta Platforms, Inc.",
     "version": "439.0.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "MLB",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "MLB",
     "version": "16.19.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "MOD Pizza",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "MOD Pizza",
     "version": "2.17.0"
   },
   {
     "added": "2023-12-29",
+    "essential": true,
+    "frequency": "monthly",
     "name": "Monarch",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Monarch Money, Inc.",
     "version": "1.0.174"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "monday",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "monday.com Ltd.",
     "version": "5.0.3"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Motionleap",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Lightricks Ltd.",
     "version": "1.9.23"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Movies",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Movies Anywhere",
     "version": "1.63.1"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Music Center",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Sony Corporation",
     "version": "7.1.1"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Music Stand",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Ministry Centered Technologies",
     "version": "4.5.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "MXBus",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Andreas Keldenich",
     "version": "2.3.2"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "My Passport Wireless",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Western Digital Technologies, Inc.",
     "version": "4.4.32"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "MyGabb",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Gabb Wireless, Inc.",
     "version": "1.29.7"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "myQ",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "The Chamberlain Group, Inc.",
     "version": "5.248.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Nest",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Nest Labs",
     "version": "5.73.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Netflix",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Netflix, Inc.",
     "version": "16.12.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "NFL",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "NFL Enterprises LLC",
     "version": "57.0.63"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Nick Jr",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Nickelodeon",
     "version": "146.0.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Nike Run Club",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Nike, Inc",
     "version": "7.30.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Noodles & Co",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Noodles & Company",
     "version": "9.0.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "NordVPN",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Nordvpn S.A.",
     "version": "8.19.0"
   },
   {
+    "added": "2023-12-30",
+    "essential": true,
+    "frequency": "daily",
+    "name": "Notes",
+    "offloaded": false,
+    "recurring": 0,
+    "seller": "Apple",
+    "version": "17.2.1"
+  },
+  {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Notion",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Notion Labs, Incorporated",
     "version": "0.4.1141"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "NPS",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "National Park Service",
     "version": "1.13"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Numbers",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Apple",
     "version": "13.2"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Odometer",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "John M. Maroli",
     "version": "2.5"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Okta Verify",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Okta, Inc.",
     "version": "9.5.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Pages",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Apple",
     "version": "13.2"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Paired",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Better Half",
     "version": "1.828.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Pantry Check",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Sunroom Labs, LLC",
     "version": "2.8.6"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Paper",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Dropbox, Inc.",
     "version": "262.2"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Paramount+",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "CBS Interactive",
     "version": "14.0.94"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "ParkChicago",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Chicago Parking Meters, LLC",
     "version": "6.4.5"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "ParkSLC",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Salt Lake City Corp",
     "version": "9.2.2"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "PBS KIDS Games",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "PBS KIDS",
     "version": "4.3.5"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Peacock",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Peacock TV LLC",
     "version": "4.11.22"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "People",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Ministry Centered Technologies",
     "version": "2.12.0"
   },
   {
+    "added": "2023-12-30",
+    "essential": true,
+    "frequency": "weekly",
+    "name": "Phone",
+    "offloaded": false,
+    "recurring": 0,
+    "seller": "Apple",
+    "version": "17.2.1"
+  },
+  {
+    "added": "2023-12-30",
+    "essential": true,
+    "frequency": "weekly",
+    "name": "Photos",
+    "offloaded": false,
+    "recurring": 0,
+    "seller": "Apple",
+    "version": "17.2.1"
+  },
+  {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Picture Insect",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Next Vision Limited",
     "version": "2.14.1"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Planet Fitness",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Planet Fitness Holdings, LLC",
     "version": "9.7.13"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Play Disney",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Disney",
     "version": "2.30.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Play Legacy",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Rabbittt",
     "version": "0.9.34"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "PlaylistAI",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Brett Bauman",
     "version": "2.25"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Plex",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Plex Inc.",
     "version": "8.29"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Prime Video",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "AMZN Mobile LLC",
     "version": "10.12"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Priority Pass",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Priority Pass Ltd",
     "version": "6.29.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Raise",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Raise Marketplace, LLC",
-    "version": "2.0.5",
-    "updated": "2023-12-30"
+    "updated": "2023-12-30",
+    "version": "2.0.5"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Reddit",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "reddit",
     "version": "2023.50.1"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "RemoteNOW",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Hisense",
     "version": "5.01.013"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Repeat Timer",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Foobar Creative",
     "version": "3.6.2"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Revel",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Revel Transit Inc.",
     "version": "3.57.1"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Robinhood",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Robinhood Markets, Inc.",
     "version": "2023.50.1"
   },
   {
+    "added": "2023-12-30",
+    "essential": true,
+    "frequency": "daily",
+    "name": "Safari",
+    "offloaded": false,
+    "recurring": 0,
+    "seller": "Apple",
+    "version": "17.2.1"
+  },
+  {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Sales Nav",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "LinkedIn Corporation",
     "version": "2023.1116.0318"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Satellite Tracker",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Vito Technology Inc.",
     "version": "1.4.6"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "SeatGeek",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "SeatGeek, Inc.",
     "version": "16.7.1"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Services",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Ministry Centered Technologies",
     "version": "5.12.0"
   },
   {
+    "added": "2023-12-30",
+    "essential": true,
+    "frequency": "weekly",
+    "name": "Settings",
+    "offloaded": false,
+    "recurring": 0,
+    "seller": "Apple",
+    "version": "17.2.1"
+  },
+  {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Sheets",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Google LLC",
     "version": "1.2023.49200"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Shift",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Shift Technologies",
     "version": "2.22.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Sky Tonight",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Vito Technology Inc.",
-    "version": "1.8.2",
-    "updated": "2023-12-30"
+    "updated": "2023-12-30",
+    "version": "1.8.2"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Skyscanner",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Skyscanner",
     "version": "7.103"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "SkyView Lite",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Terminal Eleven LLC",
     "version": "3.7.5"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Slack",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Slack Technologies, Inc.",
     "version": "23.12.21"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "SmartHQ",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "HAIER US APPLIANCE SOLUTIONS, INC",
     "version": "102.27"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "SmartThings",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Samsung Electronics Co., Ltd.",
     "version": "1.7.10"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Sonos",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Sonos, Inc.",
     "version": "15.11"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Speechify",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Speechify Inc.",
     "version": "2.28.7"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Spire",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "iZotope, Inc.",
     "version": "2.64.0"
   },
   {
     "added": "2023-12-29",
+    "essential": true,
+    "frequency": "daily",
     "name": "Spotify",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Spotify",
     "version": "8.8.96"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Star Walk 2",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Vito Technology Inc.",
     "version": "2.14.4"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Starbucks",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Starbucks Coffee Company",
     "version": "6.62.2"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "State Farm",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "State Farm Mutual Automobile Insurance Company",
     "version": "9.49.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Strava",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Strava, Inc.",
     "version": "337.0.2"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Summit 2023",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "ConnectedXM",
     "version": "1.5.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Support",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Apple",
     "version": "5.2"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Taco Bell",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Taco Bell",
     "version": "8.35.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Target",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Target",
     "version": "2023.50.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Teams",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Microsoft Corporation",
     "version": "5.22.2"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Telegram",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Telegram FZ-LLC",
     "version": "10.4.1"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "TestFlight",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Apple",
     "version": "3.4.3"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "The Crypto App",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Trustswap Inc.",
     "version": "3.3.2"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "The Dyrt",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "The Dyrt",
     "version": "4.8.5"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Think Dirty",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Think Dirty Inc.",
     "version": "4.11.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Threads",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Instagram, Inc.",
     "version": "312.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "ThriftBooks",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Thrift Books Global LLC.",
     "version": "1.5.3"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Thumbtack",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Thumbtack, Inc.",
     "version": "333.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Ticketmaster",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Ticketmaster",
     "version": "248.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "TLDL",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Graam Inc.",
     "version": "1.0.15"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Toretto",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Source Industries, LLC",
     "version": "1.06"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "TouchTunes",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "TouchTunes Interactive Network",
     "version": "3.43.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "TradingView",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "TradingView",
-    "version": "2.77.1",
-    "updated": "2023-12-30"
+    "updated": "2023-12-30",
+    "version": "2.77.1"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "TriNet HR Platform",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Zenefits",
     "version": "3.23.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Turo",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Turo Inc.",
     "version": "23.51.3"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Uber",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Uber Technologies, Inc.",
     "version": "3.592.10003"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "United",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "United Airlines",
     "version": "4.1.99"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "UT DABS App",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "State of Utah Department of Technology Services",
     "version": "1.7.7"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Utah Tickets",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Nickel",
     "version": "1.3.8"
   },
   {
     "added": "2023-12-29",
+    "essential": true,
+    "frequency": "weekly",
     "name": "VASA Fitness",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "VASA Fitness",
     "version": "6.8.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Venmo",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Venmo",
     "version": "10.32.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Visible",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Visible Service, LLC",
     "version": "5.0.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Vivino",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Vivino ApS",
     "version": "2023.49.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Voice",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Google LLC",
     "version": "23.47"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Voilà AI Artist",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Wemagine.ai LLP",
     "version": "4.4"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Voloco",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Resonant Cavity LLC",
     "version": "8.11.2"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "WA Business",
+    "offloaded": true,
+    "recurring": 0,
+    "seller": "WhatsApp Inc.",
+    "version": "23.25.86"
+  },
+  {
+    "added": "2023-12-30",
+    "essential": false,
+    "frequency": "rarely",
+    "name": "‎WA Business",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "WhatsApp Inc.",
     "version": "23.25.86"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Wallet​",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Coinbase Wallet",
     "version": "28.74.13"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Wealthfront",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Wealthfront",
     "version": "2023.12.19"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Welcome",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Welcome Travel AI Inc.",
     "version": "2.5.2"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Wells Fargo",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Wells Fargo",
     "version": "23.11.02"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "WeWork",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "WeWork Companies, Inc.",
-    "version": "5.58.0",
-    "updated": "2023-12-30"
+    "updated": "2023-12-30",
+    "version": "5.58.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "WhatsApp",
+    "offloaded": true,
+    "recurring": 0,
+    "seller": "WhatsApp Inc.",
+    "version": "23.25.85"
+  },
+  {
+    "added": "2023-12-30",
+    "essential": false,
+    "frequency": "rarely",
+    "name": "‎WhatsApp",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "WhatsApp Inc.",
     "version": "23.25.85"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Within",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Innerverse Inc.",
     "version": "2.4.13"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Withings",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Withings",
     "version": "6.2.2"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Wunderground",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Weather Underground, LLC",
     "version": "6.17.4"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "XAirMonitorMix",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Eric Tetz",
     "version": "1.15"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Xcel Fitness",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "MINDBODY, Incorporated",
     "version": "4.2.2001"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "XLaunch",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Travis Stanifer",
     "version": "2.0.4"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Yelp",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Yelp",
     "version": "23.51.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "YNAB",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "You Need A Budget LLC",
     "version": "23.23"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "YouTube",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Google LLC",
     "version": "18.49.3"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "YouTube TV",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Google LLC",
     "version": "7.49.0"
   },
   {
     "added": "2023-12-29",
+    "essential": false,
+    "frequency": "rarely",
     "name": "Zoom",
+    "offloaded": false,
+    "recurring": 0,
     "seller": "Zoom Video Communications, Inc.",
     "version": "5.17.0"
   }
