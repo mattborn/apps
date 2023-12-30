@@ -1,0 +1,1456 @@
+[
+  {
+    "added": "2023-12-29",
+    "name": "1Password",
+    "seller": "AgileBits Inc.",
+    "version": "8.10.22"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "1Password 7",
+    "seller": "AgileBits Inc.",
+    "version": "7.10.2"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "3 Cups Coffee",
+    "seller": "Legacy Coffee Llc",
+    "version": "1.50.937"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Acorns",
+    "seller": "Acorns Grow Incorporated",
+    "version": "4.75.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "AllTrails",
+    "seller": "AllTrails, Inc.",
+    "version": "18.8.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Altruist",
+    "seller": "Altruist",
+    "version": "2.8.1"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Amazon",
+    "seller": "AMZN Mobile LLC",
+    "version": "21.23.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Amazon Alexa",
+    "seller": "AMZN Mobile LLC",
+    "version": "2.2.580942"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "American",
+    "seller": "American Airlines",
+    "version": "2023.21"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Analytics",
+    "seller": "Google LLC",
+    "version": "4.9.5560"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Angel Studios",
+    "seller": "Angel Studios, Inc.",
+    "version": "23.10.24"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Angi",
+    "seller": "Angi Inc.",
+    "version": "23.47"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Apple Store",
+    "seller": "Apple",
+    "version": "521000"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Atom",
+    "seller": "Atom Tickets, LLC",
+    "version": "3.29.1"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Audible",
+    "seller": "Audible, Inc.",
+    "version": "4.11.1"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "August",
+    "seller": "August Home, Inc.",
+    "version": "23.23.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Authenticator",
+    "seller": "Google LLC",
+    "version": "4.0.2"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Basecamp",
+    "seller": "Basecamp, LLC",
+    "version": "4.10.4"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Beli",
+    "seller": "Beli Technologies, Inc.",
+    "version": "5.4.10"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "BetterUp",
+    "seller": "BetterUp",
+    "version": "4.155.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Bible",
+    "seller": "Life.Church",
+    "version": "9.33.3"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Binance",
+    "seller": "Binance LTD",
+    "version": "2.75.1"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Bird",
+    "seller": "Bird Rides, Inc.",
+    "version": "4.271.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Brivo Pass",
+    "seller": "Brivo Inc.",
+    "version": "4.14.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Calm",
+    "seller": "Calm.com",
+    "version": "6.37"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Campspot",
+    "seller": "Campspot",
+    "version": "1.26.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "CARROT",
+    "seller": "Grailr LLC",
+    "version": "5.12.9"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Carvana",
+    "seller": "Carvana",
+    "version": "5.17"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Cash App",
+    "seller": "Block, Inc.",
+    "version": "4.26"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Chase",
+    "seller": "JPMorgan Chase & Co.",
+    "version": "4.484"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "ChatGPT",
+    "seller": "OpenAI",
+    "version": "1.2023.347"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Church Center",
+    "seller": "Ministry Centered Technologies",
+    "version": "2023.12.18"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Citi Mobile",
+    "seller": "Citibank",
+    "version": "9.68.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Clarity Money",
+    "seller": "Clarity Money",
+    "version": "1.73.13"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "ClickUp",
+    "seller": "Mango Technologies, Inc.",
+    "version": "5.0.7"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Clips",
+    "seller": "Apple",
+    "version": "3.1.6"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Clubhouse",
+    "seller": "Alpha Exploration Co.",
+    "version": "23.12.19"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Coffee Golf",
+    "seller": "Shallot Games, LLC.",
+    "version": "2.1.1"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Coinbase",
+    "seller": "Coinbase, Inc.",
+    "version": "11.49.8"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Coinbase Pro",
+    "seller": "Coinbase, Inc.",
+    "version": "1.0.104"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "CoinMarketCap",
+    "seller": "CoinMarketCap",
+    "version": "4.34.1"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "CoinTracker",
+    "seller": "Nino Finance, Inc.",
+    "version": "1.34.3"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Compass Deluxe",
+    "seller": "Camera LLC(TX)",
+    "version": "3.4"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Cone",
+    "seller": "Mystical Bits, LLC",
+    "version": "2.7.30"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Connect",
+    "seller": "Garmin",
+    "version": "4.73.1",
+    "updated": "2023-12-29"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Connect Care",
+    "seller": "Intermountain Healthcare, Inc",
+    "version": "12.20.006"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Copilot",
+    "seller": "Copilot Money, Inc.",
+    "version": "3.5.18"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Crazy 8s Timer",
+    "seller": "Design Sprint X",
+    "version": "1.064"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Credit Karma",
+    "seller": "Credit Karma, Inc.",
+    "version": "23.50.1"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Crumbl",
+    "seller": "Crumbl, LLC",
+    "version": "6.4.1"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "CryptoAlerting",
+    "seller": "Cryptocurrency Alerting, LLC",
+    "version": "1.5.5"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Cryptowatch",
+    "seller": "Kraken",
+    "version": "2.7.3"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Delta",
+    "seller": "Opus Labs CVBA",
+    "version": "2023.9.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Discord",
+    "seller": "Discord, Inc.",
+    "version": "209.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Disney+",
+    "seller": "Disney",
+    "version": "2.26.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Disneyland",
+    "seller": "Disney",
+    "version": "7.32"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "DLR Lines",
+    "seller": "TouringPlans.com",
+    "version": "1.9.10"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "DoorDash",
+    "seller": "DoorDash, Inc.",
+    "version": "5.49.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "DraftKings",
+    "seller": "DraftKings",
+    "version": "5.27.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Dropbox",
+    "seller": "Dropbox, Inc.",
+    "version": "358.2"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Dwell",
+    "seller": "Dwell App, LLC",
+    "version": "2023.12.1"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Edison House",
+    "seller": "Edison House LLC",
+    "version": "23.07.5"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "ESPN",
+    "seller": "Disney",
+    "version": "6.95.1"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Eventbrite",
+    "seller": "Eventbrite",
+    "version": "9.54.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "FaceApp",
+    "seller": "FaceApp Technology Limited",
+    "version": "11.11.4"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "fair",
+    "seller": "Fair Financial Corp",
+    "version": "2.22.2"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Family Link",
+    "seller": "Google LLC",
+    "version": "2.18.26234"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "FanDuel",
+    "seller": "FanDuel, Inc.",
+    "version": "3.88"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Fantasy",
+    "seller": "Yahoo",
+    "version": "10.53.4"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Feit Electric",
+    "seller": "Feit Electric",
+    "version": "4.1.1"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Fender Tune",
+    "seller": "Fender Digital",
+    "version": "4.14.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Figma",
+    "seller": "Figma Inc.",
+    "version": "23.17.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Filmm",
+    "seller": "Filmm, LLC",
+    "version": "3.12.1"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Fire TV",
+    "seller": "AMZN Mobile LLC",
+    "version": "2.9.1"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Fitbod",
+    "seller": "Fitbod Inc.",
+    "version": "6.23.1"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Fly Delta",
+    "seller": "Delta Air Lines, Inc.",
+    "version": "5.40.1"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "FTX",
+    "seller": "Blockfolio, LLC",
+    "version": "4.12.6"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Funveo",
+    "seller": "Funny Media Labs, S.L.",
+    "version": "5.1.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Future",
+    "seller": "Future Research, Inc",
+    "version": "3.32.2"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Gemini",
+    "seller": "Gemini Trust Company, LLC",
+    "version": "23.1219.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Genius Scan",
+    "seller": "The Grizzly Labs",
+    "version": "7.13.2"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Geocaching",
+    "seller": "Groundspeak Inc.",
+    "version": "9.42.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Gmail",
+    "seller": "Google LLC",
+    "version": "6.0.231127"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Google Calendar",
+    "seller": "Google LLC",
+    "version": "23.47.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Google Home",
+    "seller": "Google LLC",
+    "version": "3.10"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Google Maps",
+    "seller": "Google LLC",
+    "version": "6.96.1"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Google Translate",
+    "seller": "Google LLC",
+    "version": "7.20.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Govee Home",
+    "seller": "Shenzhen Intellirocks Tech Co. Ltd.",
+    "version": "5.9.20"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "GroupMe",
+    "seller": "Skype Communications S.a.r.l",
+    "version": "6.102.4"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Gusto Wallet",
+    "seller": "Gusto, inc.",
+    "version": "2.33.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "HeReadsTruth",
+    "seller": "She Reads Truth",
+    "version": "3.39"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Hey Loop",
+    "seller": "Curious Labs, Inc.",
+    "version": "1.0.3"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Hipcamp",
+    "seller": "Hipcamp, Inc",
+    "version": "2.44.2"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "HODL",
+    "seller": "HODL Media Inc.",
+    "version": "9.11"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Homepoint",
+    "seller": "Home Point Financial",
+    "version": "1.17"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Hotel Tonight",
+    "seller": "Hotel Tonight Inc",
+    "version": "23.12.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Houseparty",
+    "seller": "Life On Air, Inc",
+    "version": "1.65.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "iHealth Test",
+    "seller": "iHealth Labs Inc.",
+    "version": "1.4.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "iMovie",
+    "seller": "Apple",
+    "version": "3002"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "InShot",
+    "seller": "SHANTANU PTE. LTD.",
+    "version": "1.74.1"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Instagram",
+    "seller": "Instagram, Inc.",
+    "version": "312.0.1"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Interval Timer",
+    "seller": "Float Tech, LLC",
+    "version": "3.7.4"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Jimmy John’s",
+    "seller": "Jimmy John's Sandwiches",
+    "version": "6.9.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Jira",
+    "seller": "Atlassian",
+    "version": "195.1.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "JustWatch",
+    "seller": "JustWatch GmbH",
+    "version": "23.51.3"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Kasa",
+    "seller": "TP-LINK GLOBAL INC.",
+    "version": "3.3.552"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Keynote",
+    "seller": "Apple",
+    "version": "13.2"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Kia Access",
+    "seller": "Kia America, Inc.",
+    "version": "6.13.1"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Kids",
+    "seller": "Spotify",
+    "version": "1.36.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "KuCoin",
+    "seller": "Kucoin Technology Co.,Ltd.",
+    "version": "3.98.1"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "La Crosse View",
+    "seller": "La Crosse Technology",
+    "version": "1.83.75"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "LandGlide",
+    "seller": "Real Estate Portal USA, LLC",
+    "version": "4.7.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Lapse",
+    "seller": "Lapse",
+    "version": "2.117.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Lensa",
+    "seller": "Prisma labs, inc.",
+    "version": "5.7.2"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Letterboxd",
+    "seller": "Letterboxd",
+    "version": "4.1.2"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Likewise",
+    "seller": "Likewise, Inc.",
+    "version": "30.7"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Lime",
+    "seller": "Neutron Holdings. Inc.",
+    "version": "3.139.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "LinkedIn",
+    "seller": "LinkedIn Corporation",
+    "version": "2023.1207.0928"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Little Caesars",
+    "seller": "Little Caesar Enterprises, Inc.",
+    "version": "11.2.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Loog Guitar",
+    "seller": "Loog Guitars, LLC",
+    "version": "3.7.2"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Lyft",
+    "seller": "Lyft, Inc.",
+    "version": "15.38.3"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Magic Home",
+    "seller": "zhibiao Lin",
+    "version": "1.9.3"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Marriott",
+    "seller": "Marriott International",
+    "version": "10.58.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Meetup",
+    "seller": "Meetup LLC",
+    "version": "2023.12.17"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Messenger",
+    "seller": "Meta Platforms, Inc.",
+    "version": "439.0.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "MLB",
+    "seller": "MLB",
+    "version": "16.19.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "MOD Pizza",
+    "seller": "MOD Pizza",
+    "version": "2.17.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Monarch",
+    "seller": "Monarch Money, Inc.",
+    "version": "1.0.174"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "monday",
+    "seller": "monday.com Ltd.",
+    "version": "5.0.3"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Motionleap",
+    "seller": "Lightricks Ltd.",
+    "version": "1.9.23"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Movies",
+    "seller": "Movies Anywhere",
+    "version": "1.63.1"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Music Center",
+    "seller": "Sony Corporation",
+    "version": "7.1.1"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Music Stand",
+    "seller": "Ministry Centered Technologies",
+    "version": "4.5.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "MXBus",
+    "seller": "Andreas Keldenich",
+    "version": "2.3.2"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "My Passport Wireless",
+    "seller": "Western Digital Technologies, Inc.",
+    "version": "4.4.32"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "MyGabb",
+    "seller": "Gabb Wireless, Inc.",
+    "version": "1.29.7"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "myQ",
+    "seller": "The Chamberlain Group, Inc.",
+    "version": "5.248.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Nest",
+    "seller": "Nest Labs",
+    "version": "5.73.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Netflix",
+    "seller": "Netflix, Inc.",
+    "version": "16.12.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "NFL",
+    "seller": "NFL Enterprises LLC",
+    "version": "57.0.63"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Nick Jr",
+    "seller": "Nickelodeon",
+    "version": "146.0.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Nike Run Club",
+    "seller": "Nike, Inc",
+    "version": "7.30.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Noodles & Co",
+    "seller": "Noodles & Company",
+    "version": "9.0.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "NordVPN",
+    "seller": "Nordvpn S.A.",
+    "version": "8.19.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Notion",
+    "seller": "Notion Labs, Incorporated",
+    "version": "0.4.1141"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "NPS",
+    "seller": "National Park Service",
+    "version": "1.13"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Numbers",
+    "seller": "Apple",
+    "version": "13.2"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Odometer",
+    "seller": "John M. Maroli",
+    "version": "2.5"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Okta Verify",
+    "seller": "Okta, Inc.",
+    "version": "9.5.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Pages",
+    "seller": "Apple",
+    "version": "13.2"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Paired",
+    "seller": "Better Half",
+    "version": "1.828.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Pantry Check",
+    "seller": "Sunroom Labs, LLC",
+    "version": "2.8.6"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Paper",
+    "seller": "Dropbox, Inc.",
+    "version": "262.2"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Paramount+",
+    "seller": "CBS Interactive",
+    "version": "14.0.94"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "ParkChicago",
+    "seller": "Chicago Parking Meters, LLC",
+    "version": "6.4.5"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "ParkSLC",
+    "seller": "Salt Lake City Corp",
+    "version": "9.2.2"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "PBS KIDS Games",
+    "seller": "PBS KIDS",
+    "version": "4.3.5"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Peacock",
+    "seller": "Peacock TV LLC",
+    "version": "4.11.22"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "People",
+    "seller": "Ministry Centered Technologies",
+    "version": "2.12.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Picture Insect",
+    "seller": "Next Vision Limited",
+    "version": "2.14.1"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Planet Fitness",
+    "seller": "Planet Fitness Holdings, LLC",
+    "version": "9.7.13"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Play Disney",
+    "seller": "Disney",
+    "version": "2.30.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Play Legacy",
+    "seller": "Rabbittt",
+    "version": "0.9.34"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "PlaylistAI",
+    "seller": "Brett Bauman",
+    "version": "2.25"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Plex",
+    "seller": "Plex Inc.",
+    "version": "8.29"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Prime Video",
+    "seller": "AMZN Mobile LLC",
+    "version": "10.12"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Priority Pass",
+    "seller": "Priority Pass Ltd",
+    "version": "6.29.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Raise",
+    "seller": "Raise Marketplace, LLC",
+    "version": "2.0.4"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Reddit",
+    "seller": "reddit",
+    "version": "2023.50.1"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "RemoteNOW",
+    "seller": "Hisense",
+    "version": "5.01.013"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Repeat Timer",
+    "seller": "Foobar Creative",
+    "version": "3.6.2"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Revel",
+    "seller": "Revel Transit Inc.",
+    "version": "3.57.1"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Robinhood",
+    "seller": "Robinhood Markets, Inc.",
+    "version": "2023.50.1"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Sales Nav",
+    "seller": "LinkedIn Corporation",
+    "version": "2023.1116.0318"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Satellite Tracker",
+    "seller": "Vito Technology Inc.",
+    "version": "1.4.6"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "SeatGeek",
+    "seller": "SeatGeek, Inc.",
+    "version": "16.7.1"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Services",
+    "seller": "Ministry Centered Technologies",
+    "version": "5.12.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Sheets",
+    "seller": "Google LLC",
+    "version": "1.2023.49200"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Shift",
+    "seller": "Shift Technologies",
+    "version": "2.22.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Sky Tonight",
+    "seller": "Vito Technology Inc.",
+    "version": "1.8.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Skyscanner",
+    "seller": "Skyscanner",
+    "version": "7.103"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "SkyView Lite",
+    "seller": "Terminal Eleven LLC",
+    "version": "3.7.5"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Slack",
+    "seller": "Slack Technologies, Inc.",
+    "version": "23.12.21"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "SmartHQ",
+    "seller": "HAIER US APPLIANCE SOLUTIONS, INC",
+    "version": "102.27"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "SmartThings",
+    "seller": "Samsung Electronics Co., Ltd.",
+    "version": "1.7.10"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Sonos",
+    "seller": "Sonos, Inc.",
+    "version": "15.11"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Speechify",
+    "seller": "Speechify Inc.",
+    "version": "2.28.7"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Spire",
+    "seller": "iZotope, Inc.",
+    "version": "2.64.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Spotify",
+    "seller": "Spotify",
+    "version": "8.8.96"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Star Walk 2",
+    "seller": "Vito Technology Inc.",
+    "version": "2.14.4"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Starbucks",
+    "seller": "Starbucks Coffee Company",
+    "version": "6.62.2"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "State Farm",
+    "seller": "State Farm Mutual Automobile Insurance Company",
+    "version": "9.49.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Strava",
+    "seller": "Strava, Inc.",
+    "version": "337.0.2"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Summit 2023",
+    "seller": "ConnectedXM",
+    "version": "1.5.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Support",
+    "seller": "Apple",
+    "version": "5.2"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Taco Bell",
+    "seller": "Taco Bell",
+    "version": "8.35.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Target",
+    "seller": "Target",
+    "version": "2023.50.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Teams",
+    "seller": "Microsoft Corporation",
+    "version": "5.22.2"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Telegram",
+    "seller": "Telegram FZ-LLC",
+    "version": "10.4.1"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "TestFlight",
+    "seller": "Apple",
+    "version": "3.4.3"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "The Crypto App",
+    "seller": "Trustswap Inc.",
+    "version": "3.3.2"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "The Dyrt",
+    "seller": "The Dyrt",
+    "version": "4.8.5"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Think Dirty",
+    "seller": "Think Dirty Inc.",
+    "version": "4.11.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Threads",
+    "seller": "Instagram, Inc.",
+    "version": "312.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "ThriftBooks",
+    "seller": "Thrift Books Global LLC.",
+    "version": "1.5.3"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Thumbtack",
+    "seller": "Thumbtack, Inc.",
+    "version": "333.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Ticketmaster",
+    "seller": "Ticketmaster",
+    "version": "248.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "TLDL",
+    "seller": "Graam Inc.",
+    "version": "1.0.15"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Toretto",
+    "seller": "Source Industries, LLC",
+    "version": "1.06"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "TouchTunes",
+    "seller": "TouchTunes Interactive Network",
+    "version": "3.43.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "TradingView",
+    "seller": "TradingView",
+    "version": "2.76.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "TriNet HR Platform",
+    "seller": "Zenefits",
+    "version": "3.23.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Turo",
+    "seller": "Turo Inc.",
+    "version": "23.51.3"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Uber",
+    "seller": "Uber Technologies, Inc.",
+    "version": "3.592.10003"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "United",
+    "seller": "United Airlines",
+    "version": "4.1.99"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "UT DABS App",
+    "seller": "State of Utah Department of Technology Services",
+    "version": "1.7.7"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Utah Tickets",
+    "seller": "Nickel",
+    "version": "1.3.8"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "VASA Fitness",
+    "seller": "VASA Fitness",
+    "version": "6.8.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Venmo",
+    "seller": "Venmo",
+    "version": "10.32.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Visible",
+    "seller": "Visible Service, LLC",
+    "version": "5.0.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Vivino",
+    "seller": "Vivino ApS",
+    "version": "2023.49.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Voice",
+    "seller": "Google LLC",
+    "version": "23.47"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Voilà AI Artist",
+    "seller": "Wemagine.ai LLP",
+    "version": "4.4"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Voloco",
+    "seller": "Resonant Cavity LLC",
+    "version": "8.11.2"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "WA Business",
+    "seller": "WhatsApp Inc.",
+    "version": "23.25.86"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Wallet​",
+    "seller": "Coinbase Wallet",
+    "version": "28.74.13"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Wealthfront",
+    "seller": "Wealthfront",
+    "version": "2023.12.19"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Welcome",
+    "seller": "Welcome Travel AI Inc.",
+    "version": "2.5.2"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Wells Fargo",
+    "seller": "Wells Fargo",
+    "version": "23.11.02"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "WeWork",
+    "seller": "WeWork Companies, Inc.",
+    "version": "2.55.4",
+    "updated": "2023-12-29"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "WhatsApp",
+    "seller": "WhatsApp Inc.",
+    "version": "23.25.85"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Within",
+    "seller": "Innerverse Inc.",
+    "version": "2.4.13"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Withings",
+    "seller": "Withings",
+    "version": "6.2.2"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Wunderground",
+    "seller": "Weather Underground, LLC",
+    "version": "6.17.4"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "XAirMonitorMix",
+    "seller": "Eric Tetz",
+    "version": "1.15"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Xcel Fitness",
+    "seller": "MINDBODY, Incorporated",
+    "version": "4.2.2001"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "XLaunch",
+    "seller": "Travis Stanifer",
+    "version": "2.0.4"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Yelp",
+    "seller": "Yelp",
+    "version": "23.51.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "YNAB",
+    "seller": "You Need A Budget LLC",
+    "version": "23.23"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "YouTube",
+    "seller": "Google LLC",
+    "version": "18.49.3"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "YouTube TV",
+    "seller": "Google LLC",
+    "version": "7.49.0"
+  },
+  {
+    "added": "2023-12-29",
+    "name": "Zoom",
+    "seller": "Zoom Video Communications, Inc.",
+    "version": "5.17.0"
+  }
+]
