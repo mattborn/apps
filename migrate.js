@@ -30,9 +30,9 @@ const updateJsonFile = AppList => {
         seller: app['Seller'],
         version: version,
       })
-    } else {
-      if (existingApp.added !== today) existingApp.updated = today
-      if (existingApp.version !== version) existingApp.version = version
+    } else if (existingApp.added !== today && existingApp.version !== version) {
+      existingApp.updated = today
+      existingApp.version = version
     }
   }
 
