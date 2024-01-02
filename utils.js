@@ -3,6 +3,8 @@ const systemApps = [
   'Calculator',
   'Camera',
   'Clock',
+  'Files',
+  'Freeform',
   'Messages',
   'Notes',
   'Phone',
@@ -14,7 +16,8 @@ const systemApps = [
 const parseAppName = appName => {
   if (!appName) return false
   const parse = appName.match(/(.*?)\s*\(([\d.]+)\)$/)
-  return { name: parse[1], version: parse[2] }
+  const cleanName = parse[1].replace(/\u200E/g, '') // removes LTR mark
+  return { name: cleanName, version: parse[2] }
 }
 
 const handleSystemApps = apps => {
@@ -39,8 +42,10 @@ const scaffoldProperties = apps => {
   apps.forEach(app => {
     app.essential = app.essential || false
     app.frequency = app.frequency || 'rarely'
+    app.note = app.note || ''
     app.offloaded = app.offloaded || false
     app.recurring = app.recurring || 0
+    app.tags = app.tags || ['Archive']
   })
 }
 
