@@ -1,5 +1,6 @@
 const currentOS = '17.2.1'
 const systemApps = [
+  'App Store',
   'Calculator',
   'Camera',
   'Clock',

@@ -21,7 +21,7 @@ if (fs.existsSync(jsonPath)) {
 
 // Function to update the JSON file
 const updateJsonFile = AppList => {
-  const today = new Date().toISOString().split('T')[0] // YYYY-MM-DD
+  const today = new Date(Date.now() - 25200000).toISOString().split('T')[0] // YYYY-MM-DD MST
 
   for (let app of AppList) {
     if (!app['App Name']) continue // prevent undefined keys
