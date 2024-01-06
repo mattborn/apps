@@ -4,6 +4,7 @@ const systemApps = [
   'Camera',
   'Clock',
   'Files',
+  'Fitness',
   'Freeform',
   'Messages',
   'Notes',
@@ -11,6 +12,8 @@ const systemApps = [
   'Photos',
   'Safari',
   'Settings',
+  'Voice Memos',
+  'Wallet',
 ]
 
 const parseAppName = appName => {
@@ -24,7 +27,7 @@ const handleSystemApps = apps => {
   systemApps.forEach(systemAppName => {
     let foundApp = apps.find(app => app.name === systemAppName)
     if (!foundApp) {
-      apps.push({ name: systemAppName, version: currentOS })
+      apps.push({ name: systemAppName, tags: ['System'], version: currentOS })
     } else foundApp.version = currentOS
   })
 }

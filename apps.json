@@ -406,7 +406,8 @@
     "recurring": 0,
     "seller": "Ministry Centered Technologies",
     "tags": ["Ministry", "Ridgeline"],
-    "version": "2023.12.18"
+    "updated": "2024-01-05",
+    "version": "2023.12.20"
   },
   {
     "added": "2023-12-29",
@@ -473,8 +474,8 @@
     "essential": false,
     "frequency": "rarely",
     "name": "Clubhouse",
-    "note": "",
-    "offloaded": false,
+    "note": "Revive with phone number",
+    "offloaded": true,
     "recurring": 0,
     "seller": "Alpha Exploration Co.",
     "tags": ["Archive"],
@@ -558,11 +559,11 @@
     "essential": false,
     "frequency": "rarely",
     "name": "Cone",
-    "note": "",
-    "offloaded": false,
+    "note": "Eyedropper IRL",
+    "offloaded": true,
     "recurring": 0,
     "seller": "Mystical Bits, LLC",
-    "tags": ["Archive"],
+    "tags": ["Utility"],
     "version": "2.7.30"
   },
   {
@@ -575,8 +576,8 @@
     "recurring": 0,
     "seller": "Garmin",
     "tags": ["Archive"],
-    "updated": "2024-01-03",
-    "version": "4.73.1"
+    "updated": "2024-01-05",
+    "version": "4.74"
   },
   {
     "added": "2023-12-29",
@@ -600,7 +601,8 @@
     "recurring": 0,
     "seller": "Copilot Money, Inc.",
     "tags": ["Archive"],
-    "version": "3.5.18"
+    "updated": "2024-01-05",
+    "version": "3.5.19"
   },
   {
     "added": "2023-12-29",
@@ -636,7 +638,8 @@
     "recurring": 0,
     "seller": "Crumbl, LLC",
     "tags": ["Archive"],
-    "version": "6.4.1"
+    "updated": "2024-01-05",
+    "version": "6.4.4"
   },
   {
     "added": "2023-12-29",
@@ -871,11 +874,11 @@
     "essential": false,
     "frequency": "rarely",
     "name": "Feit Electric",
-    "note": "",
-    "offloaded": false,
+    "note": "For some light we had?",
+    "offloaded": true,
     "recurring": 0,
     "seller": "Feit Electric",
-    "tags": ["Archive"],
+    "tags": ["Home"],
     "version": "4.1.1"
   },
   {
@@ -895,14 +898,15 @@
     "essential": false,
     "frequency": "rarely",
     "name": "Figma",
-    "note": "",
-    "offloaded": false,
+    "note": "Prefer desktop",
+    "offloaded": true,
     "recurring": 0,
     "seller": "Figma Inc.",
-    "tags": ["Archive"],
+    "tags": ["Work"],
     "version": "23.17.0"
   },
   {
+    "added": "2024-01-02",
     "essential": false,
     "frequency": "rarely",
     "name": "Files",
@@ -949,6 +953,17 @@
     "version": "6.23.1"
   },
   {
+    "added": "2024-01-05",
+    "essential": false,
+    "frequency": "rarely",
+    "name": "Fitness",
+    "note": "Prefer Garmin",
+    "offloaded": false,
+    "recurring": 0,
+    "tags": ["System"],
+    "version": "17.2.1"
+  },
+  {
     "added": "2023-12-29",
     "essential": false,
     "frequency": "rarely",
@@ -961,6 +976,7 @@
     "version": "5.40.1"
   },
   {
+    "added": "2024-01-02",
     "essential": false,
     "frequency": "rarely",
     "name": "Freeform",
@@ -1004,8 +1020,8 @@
     "recurring": 0,
     "seller": "Future Research, Inc",
     "tags": ["Archive"],
-    "updated": "2024-01-03",
-    "version": "3.33"
+    "updated": "2024-01-05",
+    "version": "3.34"
   },
   {
     "added": "2023-12-29",
@@ -1120,7 +1136,7 @@
     "essential": false,
     "frequency": "rarely",
     "name": "GroupMe",
-    "note": "",
+    "note": "Borderlands, Industry trail team",
     "offloaded": false,
     "recurring": 0,
     "seller": "Skype Communications S.a.r.l",
@@ -1415,8 +1431,8 @@
     "recurring": 0,
     "seller": "Lapse",
     "tags": ["Archive"],
-    "updated": "2024-01-02",
-    "version": "2.121.0"
+    "updated": "2024-01-05",
+    "version": "2.125.0"
   },
   {
     "added": "2023-12-29",
@@ -1628,11 +1644,11 @@
     "essential": false,
     "frequency": "rarely",
     "name": "Motionleap",
-    "note": "",
-    "offloaded": false,
-    "recurring": 0,
+    "note": "Add motion to photos",
+    "offloaded": true,
+    "recurring": 59.88,
     "seller": "Lightricks Ltd.",
-    "tags": ["Archive"],
+    "tags": ["Utility"],
     "version": "1.9.23"
   },
   {
@@ -1677,7 +1693,7 @@
     "frequency": "rarely",
     "name": "MXBus",
     "note": "Ridgeline",
-    "offloaded": false,
+    "offloaded": true,
     "recurring": 0,
     "seller": "Andreas Keldenich",
     "tags": ["Ministry", "Ridgeline"],
@@ -1753,7 +1769,8 @@
     "recurring": 14.99,
     "seller": "NFL Enterprises LLC",
     "tags": ["Sports"],
-    "version": "57.0.63"
+    "updated": "2024-01-05",
+    "version": "57.0.64"
   },
   {
     "added": "2023-12-29",
@@ -1789,7 +1806,8 @@
     "recurring": 0,
     "seller": "Noodles & Company",
     "tags": ["Food"],
-    "version": "9.0.0"
+    "updated": "2024-01-05",
+    "version": "9.0.1"
   },
   {
     "added": "2023-12-29",
@@ -1832,11 +1850,11 @@
     "essential": false,
     "frequency": "rarely",
     "name": "NPS",
-    "note": "",
-    "offloaded": false,
+    "note": "Prefer nps.gov",
+    "offloaded": true,
     "recurring": 0,
     "seller": "National Park Service",
-    "tags": ["Archive"],
+    "tags": ["Research", "Travel"],
     "version": "1.13"
   },
   {
@@ -2004,7 +2022,7 @@
     "offloaded": false,
     "recurring": 0,
     "seller": "Apple",
-    "tags": ["Archive"],
+    "tags": ["System"],
     "version": "17.2.1"
   },
   {
@@ -2016,7 +2034,7 @@
     "offloaded": false,
     "recurring": 0,
     "seller": "Apple",
-    "tags": ["Archive"],
+    "tags": ["System"],
     "version": "17.2.1"
   },
   {
@@ -2040,7 +2058,7 @@
     "offloaded": false,
     "recurring": 0,
     "seller": "Planet Fitness Holdings, LLC",
-    "tags": ["Archive"],
+    "tags": ["Fitness"],
     "version": "9.7.13"
   },
   {
@@ -2085,11 +2103,11 @@
     "essential": false,
     "frequency": "rarely",
     "name": "Plex",
-    "note": "",
-    "offloaded": false,
+    "note": "Prefer desktop",
+    "offloaded": true,
     "recurring": 0,
     "seller": "Plex Inc.",
-    "tags": ["Archive"],
+    "tags": ["Media"],
     "version": "8.29"
   },
   {
@@ -2502,7 +2520,8 @@
     "recurring": 0,
     "seller": "Target",
     "tags": ["Archive"],
-    "version": "2023.50.0"
+    "updated": "2024-01-05",
+    "version": "2024.0.0"
   },
   {
     "added": "2023-12-29",
@@ -2563,7 +2582,8 @@
     "recurring": 0,
     "seller": "The Dyrt",
     "tags": ["Archive"],
-    "version": "4.8.5"
+    "updated": "2024-01-05",
+    "version": "4.9.0"
   },
   {
     "added": "2023-12-29",
@@ -2630,8 +2650,8 @@
     "essential": false,
     "frequency": "rarely",
     "name": "TLDL",
-    "note": "",
-    "offloaded": false,
+    "note": "Podcasts?",
+    "offloaded": true,
     "recurring": 0,
     "seller": "Graam Inc.",
     "tags": ["Archive"],
@@ -2751,11 +2771,11 @@
     "essential": true,
     "frequency": "weekly",
     "name": "VASA Fitness",
-    "note": "",
+    "note": "GTL",
     "offloaded": false,
     "recurring": 0,
     "seller": "VASA Fitness",
-    "tags": ["Archive"],
+    "tags": ["Fitness"],
     "version": "6.8.0"
   },
   {
@@ -2807,6 +2827,17 @@
     "version": "23.47"
   },
   {
+    "added": "2024-01-04",
+    "essential": true,
+    "frequency": "monthly",
+    "name": "Voice Memos",
+    "note": "Mostly for reminders when driving",
+    "offloaded": false,
+    "recurring": 0,
+    "tags": ["System"],
+    "version": "17.2.1"
+  },
+  {
     "added": "2023-12-29",
     "essential": false,
     "frequency": "rarely",
@@ -2823,11 +2854,11 @@
     "essential": false,
     "frequency": "rarely",
     "name": "Voloco",
-    "note": "",
-    "offloaded": false,
-    "recurring": 0,
+    "note": "Vocoder for harmonies",
+    "offloaded": true,
+    "recurring": 59.99,
     "seller": "Resonant Cavity LLC",
-    "tags": ["Archive"],
+    "tags": ["Ministry"],
     "version": "8.11.2"
   },
   {
@@ -2853,6 +2884,17 @@
     "seller": "Coinbase Wallet",
     "tags": ["Crypto", "Research"],
     "version": "28.74.13"
+  },
+  {
+    "added": "2024-01-05",
+    "essential": true,
+    "frequency": "weekly",
+    "name": "Wallet",
+    "note": "",
+    "offloaded": false,
+    "recurring": 0,
+    "tags": ["System"],
+    "version": "17.2.1"
   },
   {
     "added": "2023-12-29",
@@ -2895,12 +2937,12 @@
     "essential": false,
     "frequency": "rarely",
     "name": "WeWork",
-    "note": "",
-    "offloaded": false,
+    "note": "Revive with keychain",
+    "offloaded": true,
     "recurring": 0,
     "seller": "WeWork Companies, Inc.",
-    "tags": ["Archive"],
-    "updated": "2024-01-03",
+    "tags": ["Work"],
+    "updated": "2024-01-05",
     "version": "5.58.0"
   },
   {
@@ -2920,23 +2962,23 @@
     "essential": false,
     "frequency": "rarely",
     "name": "Within",
-    "note": "",
+    "note": "Jason Benjamin’s app",
     "offloaded": false,
     "recurring": 0,
     "seller": "Innerverse Inc.",
-    "tags": ["Archive"],
+    "tags": ["Health"],
     "version": "2.4.13"
   },
   {
     "added": "2023-12-29",
-    "essential": false,
-    "frequency": "rarely",
+    "essential": true,
+    "frequency": "weekly",
     "name": "Withings",
-    "note": "",
+    "note": "For managing my weight",
     "offloaded": false,
     "recurring": 0,
     "seller": "Withings",
-    "tags": ["Archive"],
+    "tags": ["Health"],
     "version": "6.2.2"
   },
   {
@@ -2944,11 +2986,11 @@
     "essential": false,
     "frequency": "rarely",
     "name": "Wunderground",
-    "note": "",
-    "offloaded": false,
+    "note": "Replaced with Carrot",
+    "offloaded": true,
     "recurring": 0,
     "seller": "Weather Underground, LLC",
-    "tags": ["Archive"],
+    "tags": ["Local"],
     "version": "6.17.4"
   },
   {
@@ -2968,11 +3010,11 @@
     "essential": false,
     "frequency": "rarely",
     "name": "Xcel Fitness",
-    "note": "",
+    "note": "Meg still looks up yoga times",
     "offloaded": false,
     "recurring": 0,
     "seller": "MINDBODY, Incorporated",
-    "tags": ["Archive"],
+    "tags": ["Fitness"],
     "version": "4.2.2001"
   },
   {
@@ -2980,8 +3022,8 @@
     "essential": false,
     "frequency": "rarely",
     "name": "XLaunch",
-    "note": "",
-    "offloaded": false,
+    "note": "Prefer spacex.com",
+    "offloaded": true,
     "recurring": 0,
     "seller": "Travis Stanifer",
     "tags": ["Archive"],
