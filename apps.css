@@ -1,20 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap');
+
 body {
-  font-family: Arial, sans-serif;
+  background: #f2f4f7;
+  color: #475467;
+  font-family: 'DM Sans', sans-serif;
+  margin: 0;
 }
 
 #app-container {
   margin: 0 auto;
-  max-width: 800px;
-  padding: 20px;
+  max-width: 1280px;
+  padding: 32px;
+}
+
+#apps-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
 }
 
 .app-card {
-  border: 1px solid #ddd;
-  padding: 10px;
-  margin-bottom: 10px;
-  border-radius: 4px;
+  background-color: white;
+  border-radius: 16px;
+  box-shadow: 0 2px 4px #0001;
+  display: flex;
+  flex: 1 1 192px;
+  gap: 12px;
+  padding: 16px;
+}
+
+.app-icon {
+  background-color: #f2f4f7;
+  border-radius: 8px;
+  height: 64px;
+  width: 64px;
+}
+
+h2 {
+  color: #1d2939;
+  font-size: 1rem;
+  margin: 0;
+}
+
+.app-info {
+  color: #98a2b3;
+  font-size: 14px;
+  flex-grow: 1;
+  line-height: 20px;
 }
 
 .offloaded {
-  opacity: 0.5;
+  opacity: 0.3;
+}
+
+.tags-container {
+  display: flex;
+  gap: 4px;
+}
+
+.tag-pill {
+  background-color: #07f;
+  border-radius: 12px;
+  color: white;
+  display: inline-block;
+  font-size: 12px;
+  margin: 6px 0;
+  padding: 2px 8px;
 }
