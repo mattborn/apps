@@ -1,6 +1,7 @@
 const $ = selector => document.querySelector(selector)
 
 document.addEventListener('DOMContentLoaded', () => {
+  // Fetch and display apps
   fetch('apps.json')
     .then(response => response.json())
     .then(apps => {
@@ -10,6 +11,12 @@ document.addEventListener('DOMContentLoaded', () => {
       )
     })
     .catch(error => console.error('Error loading apps:', error))
+
+  // Fetch and display stats
+  fetch('stats.json')
+    .then(response => response.json())
+    .then(stats => updateStatsInfo(stats))
+    .catch(error => console.error('Error loading stats:', error))
 })
 
 const renderApps = apps => {
@@ -33,7 +40,7 @@ const createAppCard = (parent, app) => {
   <h2>${app.name}</h2>
   <div>${app.version || 'No version'}</div>
   ${renderTags(app.tags)}
-  <div>${app.note ? createLinkFromText(app.note) : 'None'}</div>
+  <div>${app.note ? createLinkFromText(app.note) : ''}</div>
   <div>${app.essential ? 'Essential' : 'Non-essential'}</div>
   <div>Frequency: ${app.frequency || 'Unknown'}</div>
   <div>Last updated: ${app.updated || app.added}</div>`
@@ -63,4 +70,12 @@ const diminishOffloadedApps = (apps, showOffloaded) => {
 
   const filteredApps = showOffloaded ? apps : apps.filter(app => !app.offloaded)
   filteredApps.forEach(app => createAppCard(appsList, app))
+}
+
+const updateStatsInfo = stats => {
+  const percentOffloaded = ((stats.offloaded / stats.apps) * 100).toFixed(2)
+  const statsInfo = $('#stats-info')
+
+  statsInfo.innerHTML = `${percentOffloaded}%`
+  statsInfo.title = `${stats.offloaded} of ${stats.apps} apps offloaded`
 }

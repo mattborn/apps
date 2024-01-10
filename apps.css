@@ -64,6 +64,7 @@ h2 {
   color: white;
   display: inline-block;
   font-size: 12px;
+  letter-spacing: 0.03em;
   margin: 6px 0;
   padding: 2px 8px;
 }

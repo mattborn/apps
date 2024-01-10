@@ -8,7 +8,7 @@
     "offloaded": true,
     "recurring": 102.83,
     "seller": "AgileBits Inc.",
-    "tags": ["Archive"],
+    "tags": ["Utility"],
     "updated": "2023-12-30",
     "version": "8.10.23"
   },
@@ -21,7 +21,7 @@
     "offloaded": true,
     "recurring": 0,
     "seller": "AgileBits Inc.",
-    "tags": ["Archive"],
+    "tags": ["Utility"],
     "version": "7.10.2"
   },
   {
@@ -33,7 +33,7 @@
     "offloaded": true,
     "recurring": 0,
     "seller": "Legacy Coffee Llc",
-    "tags": ["Archive"],
+    "tags": ["Food"],
     "version": "1.50.937"
   },
   {
@@ -45,7 +45,7 @@
     "offloaded": true,
     "recurring": 0,
     "seller": "Acorns Grow Incorporated",
-    "tags": ["Archive"],
+    "tags": ["Money"],
     "version": "4.75.0"
   },
   {
@@ -57,7 +57,7 @@
     "offloaded": true,
     "recurring": 35.99,
     "seller": "AllTrails, Inc.",
-    "tags": ["Archive"],
+    "tags": ["Family"],
     "version": "18.8.0"
   },
   {
@@ -106,7 +106,7 @@
     "offloaded": true,
     "recurring": 0,
     "seller": "American Airlines",
-    "tags": ["Archive"],
+    "tags": ["Travel"],
     "version": "2023.21"
   },
   {
@@ -114,11 +114,11 @@
     "essential": true,
     "frequency": "rarely",
     "name": "Analytics",
-    "note": "Difficult to maintain",
-    "offloaded": false,
+    "note": "Prefer clarity.microsoft.com",
+    "offloaded": true,
     "recurring": 0,
     "seller": "Google LLC",
-    "tags": ["Archive"],
+    "tags": ["Work"],
     "version": "4.9.5560"
   },
   {
@@ -130,7 +130,7 @@
     "offloaded": true,
     "recurring": 0,
     "seller": "Angel Studios, Inc.",
-    "tags": ["Archive"],
+    "tags": ["Media"],
     "version": "23.10.24"
   },
   {
@@ -214,7 +214,7 @@
     "offloaded": true,
     "recurring": 0,
     "seller": "Google LLC",
-    "tags": ["Archive"],
+    "tags": ["Work"],
     "version": "4.0.2"
   },
   {
@@ -258,11 +258,11 @@
     "essential": false,
     "frequency": "rarely",
     "name": "Bible",
-    "note": "Bothers me every time I use it",
-    "offloaded": false,
+    "note": "Bothers me every time, prefer print",
+    "offloaded": true,
     "recurring": 0,
     "seller": "Life.Church",
-    "tags": ["Archive"],
+    "tags": ["Faith"],
     "version": "9.33.3"
   },
   {
@@ -295,7 +295,7 @@
     "frequency": "rarely",
     "name": "Brivo Pass",
     "note": "Ridgeline door",
-    "offloaded": false,
+    "offloaded": true,
     "recurring": 0,
     "seller": "Brivo Inc.",
     "tags": ["Ministry"],
@@ -623,8 +623,8 @@
     "essential": false,
     "frequency": "rarely",
     "name": "Crazy 8s Timer",
-    "note": "Prefer timersed",
-    "offloaded": false,
+    "note": "Prefer Repeat Timer",
+    "offloaded": true,
     "recurring": 0,
     "seller": "Design Sprint X",
     "tags": ["Work"],
@@ -1082,7 +1082,7 @@
     "offloaded": false,
     "recurring": 0,
     "seller": "Google LLC",
-    "tags": ["Archive"],
+    "tags": ["Work"],
     "updated": "2024-01-10",
     "version": "6.0.231224"
   },
@@ -1095,7 +1095,7 @@
     "offloaded": false,
     "recurring": 0,
     "seller": "Google LLC",
-    "tags": ["Archive"],
+    "tags": ["Work"],
     "version": "23.47.0"
   },
   {
@@ -1107,7 +1107,7 @@
     "offloaded": false,
     "recurring": 0,
     "seller": "Google LLC",
-    "tags": ["Archive"],
+    "tags": ["Home"],
     "updated": "2024-01-10",
     "version": "3.11"
   },
@@ -1120,7 +1120,7 @@
     "offloaded": false,
     "recurring": 0,
     "seller": "Google LLC",
-    "tags": ["Archive"],
+    "tags": ["Local"],
     "version": "6.96.1"
   },
   {
@@ -1311,7 +1311,7 @@
     "frequency": "daily",
     "name": "Interval Timer",
     "note": "Replaced with Repeat Timer",
-    "offloaded": false,
+    "offloaded": true,
     "recurring": 0,
     "seller": "Float Tech, LLC",
     "tags": ["Utility"],
@@ -1953,7 +1953,7 @@
     "frequency": "rarely",
     "name": "Pantry Check",
     "note": "Revive with keychain (us)",
-    "offloaded": false,
+    "offloaded": true,
     "recurring": 0,
     "seller": "Sunroom Labs, LLC",
     "tags": ["Home"],
@@ -2121,7 +2121,7 @@
     "frequency": "rarely",
     "name": "PlaylistAI",
     "note": "Revive with Apple OAuth",
-    "offloaded": false,
+    "offloaded": true,
     "recurring": 29.99,
     "seller": "Brett Bauman",
     "tags": ["Media", "Research"],
@@ -2170,7 +2170,7 @@
     "frequency": "rarely",
     "name": "Raise",
     "note": "Formerly Slide, revive with phone number",
-    "offloaded": false,
+    "offloaded": true,
     "recurring": 0,
     "seller": "Raise Marketplace, LLC",
     "tags": ["Shopping"],
@@ -2687,7 +2687,7 @@
     "offloaded": true,
     "recurring": 0,
     "seller": "Graam Inc.",
-    "tags": ["Archive"],
+    "tags": ["Media"],
     "version": "1.0.15"
   },
   {
@@ -2708,7 +2708,7 @@
     "frequency": "rarely",
     "name": "TouchTunes",
     "note": "Used at Ulrich’s, revive with Apple OAuth",
-    "offloaded": false,
+    "offloaded": true,
     "recurring": 0,
     "seller": "TouchTunes Interactive Network",
     "tags": ["Travel"],
@@ -2842,7 +2842,7 @@
     "frequency": "rarely",
     "name": "Vivino",
     "note": "Prefer vivino.com",
-    "offloaded": false,
+    "offloaded": true,
     "recurring": 0,
     "seller": "Vivino ApS",
     "tags": ["Food"],
@@ -2857,7 +2857,7 @@
     "offloaded": true,
     "recurring": 0,
     "seller": "Google LLC",
-    "tags": ["Archive"],
+    "tags": ["Work"],
     "version": "23.47"
   },
   {
@@ -3096,7 +3096,7 @@
     "offloaded": true,
     "recurring": 0,
     "seller": "Google LLC",
-    "tags": ["Archive"],
+    "tags": ["Media"],
     "version": "18.49.3"
   },
   {
@@ -3108,7 +3108,7 @@
     "offloaded": true,
     "recurring": 0,
     "seller": "Google LLC",
-    "tags": ["Archive"],
+    "tags": ["Media"],
     "updated": "2024-01-08",
     "version": "8.01.0"
   },
