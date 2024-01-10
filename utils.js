@@ -8,6 +8,7 @@ const systemApps = [
   'Fitness',
   'Freeform',
   'Messages',
+  'Music',
   'Notes',
   'Phone',
   'Photos',

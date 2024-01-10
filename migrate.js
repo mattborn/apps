@@ -46,11 +46,22 @@ const updateJsonFile = AppList => {
   apps = apps.map(app => sortProperties(app))
   apps.sort((a, b) => a.name.localeCompare(b.name))
 
+  updateStatsFile(apps)
+
   try {
     fs.writeFileSync(jsonPath, JSON.stringify(apps, null, 2))
   } catch (error) {
     console.error(error)
   }
+}
+
+const updateStatsFile = apps => {
+  const stats = {
+    apps: apps.length,
+    offloaded: apps.filter(app => app.offloaded).length,
+  }
+
+  fs.writeFileSync('./stats.json', JSON.stringify(stats, null, 2))
 }
 
 // Read and parse CSV
