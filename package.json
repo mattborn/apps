@@ -1,6 +1,6 @@
 {
   "name": "apps",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "",
   "main": ".prettierrc.js",
   "scripts": {
@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "app-store-scraper": "^0.18.0",
+    "cloudinary": "^1.41.2",
     "papaparse": "^5.4.1"
   }
 }
